@@ -1,0 +1,64 @@
+                                .description {
+                                    max-width: 600px;
+                                    text-align: center;
+                                    margin: auto;
+                                }
+                                
+                                h1 {
+                                    text-align: center;
+                                }
+                                
+                                h2 {
+                                    text-align: center;
+                                    font-style: oblique;
+                                    font-stretch: semi-expanded;
+                                    column-span: inherit
+                                }
+                                
+                                .column {
+                                    float: left;
+                                    width: 20%;
+                                }
+                                
+                                .shop-by-type{
+                                    width: 50%;
+                                    height: auto;
+                                    transition: 5ms
+                                }
+                                
+                                .shop-by-type:hover {
+                                    transform: scale(1.1)
+                                }
+
+                                .imagebox {
+                                    width: 100%;
+                                    height: atuo;
+                                    max-width: 100%;
+                                }
+                                .textbox{
+                                    background-image: url(../images/background-3104413_960_720.jpg); 
+                                    color:  rgb(212, 224, 217);
+                                    font-size: 17px
+                                }
+
+                                .column1{
+                                    width:20%;
+                                }
+                                .card-img-top{
+                                    width: 100%
+                                }
+
+                                /*.d-block-w-100{  
+                                     width: 100%;
+                                    height: atuo;
+                                    max-width: 50%;
+
+                                }/*
+
+                                
+
+                            
+
+                                
+                            
+                               
